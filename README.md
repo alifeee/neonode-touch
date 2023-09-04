@@ -6,3 +6,7 @@ Information and code surrounding [Neonode touch sensor devices](https://neonode.
 
 - [datasheets](./datasheets/)
 - [hardware](./hardware.md)
+
+## Code
+
+- [Neonode Touch Sensor Module Interface library for Arduino](https://github.com/neonode-inc/zforce-arduino)
