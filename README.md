@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/neonode-touch/about/>
 # Neonode touch
 
 Information and code surrounding [Neonode touch sensor devices](https://neonode.com/technologies/zforce/touch-sensor-modules).
